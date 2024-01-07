@@ -11,6 +11,7 @@ Features:
 2. Dependency Injection using Hilt<br>
 3. Ui made using Jetpack compose<br>
 4. Uses Navigation Component<br>
+5. U can sort ur notes<br>
 5. CRUD functionality <br>
 6. Uses Room for local data storage<br>
 <br>
