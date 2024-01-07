@@ -1,6 +1,6 @@
 # Notes APP
 
-a notes app that follows best practices like use-cases and clean architecture + MVVM,UI made using jetpack compose->
+a notes app that follows best practices like use-cases and clean architecture + MVVM and UI made using jetpack compose->
 <br>
 
 Features:
